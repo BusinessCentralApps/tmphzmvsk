@@ -1,0 +1,10 @@
+{
+  "alDoc": {
+    "ContinuousDeployment": true,
+    "deployToGitHubPages": false
+  },
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/c490ea6a13c6caabaddbb06f2b4539a86cab4ab2/.Modules/settings.schema.json",
+  "type": "PTE",
+  "templateUrl": "https://github.com/businesscentralapps/tmp18WE71-PTE@main",
+  "MicrosoftTelemetryConnectionString": ""
+}
